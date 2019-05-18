@@ -1,0 +1,18 @@
+[
+  {
+    "user_id": 1,
+    "user_name": "User A"
+  },
+  {
+    "user_id": 2,
+    "user_name": "User B"
+  },
+  {
+    "user_id": 3,
+    "user_name": "User C"
+  },
+  {
+    "user_id": 4,
+    "user_name": "User D"
+  }
+]
